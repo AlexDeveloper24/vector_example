@@ -27,6 +27,7 @@ vector_t::~vector_t()
 
 std::size_t vector_t::size() const
 {
+	
     return 0;
 }
 
