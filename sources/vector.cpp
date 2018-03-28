@@ -32,6 +32,7 @@ std::size_t vector_t::size() const
 
 std::size_t vector_t::capacity() const
 {
+	
     return 0;
 }
 
