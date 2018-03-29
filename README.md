@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AlexDeveloper24/)](https://travis-ci.org/AlexDeveloper24/)
+[![Build Status](https://travis-ci.org/AlexDeveloper24/vector_example.svg?branch=master)](https://travis-ci.org/BroNaz/vector_example)
 
 ```
 cmake -H. -B_builds -DBUILD_TESTS=ON
